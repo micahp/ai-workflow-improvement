@@ -1,3 +1,5 @@
 workspaceStorage/
 workspaceStorage.zip
 node_modules/
+pdfs/
+extracted_content/
