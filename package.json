@@ -1,0 +1,27 @@
+{
+  "name": "ai-workflow-improvement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micahp/ai-workflow-improvement.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/micahp/ai-workflow-improvement/issues"
+  },
+  "homepage": "https://github.com/micahp/ai-workflow-improvement#readme",
+  "dependencies": {
+    "@sylphlab/pdf-reader-mcp": "^0.3.23",
+    "pdf-parse": "^1.1.1",
+    "pdf2json": "^3.1.6",
+    "pdfreader": "^3.0.7"
+  }
+}

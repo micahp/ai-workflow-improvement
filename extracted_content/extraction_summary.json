@@ -1,0 +1,74 @@
+[
+  {
+    "file": "pdfs/Building Effective AI Agents - Anthropic.pdf",
+    "totalPages": 16,
+    "textLength": 21003,
+    "wordCount": 2975,
+    "extractedAt": "2025-06-24T20:05:55.523Z",
+    "status": "success",
+    "outputFile": "extracted_content/Building_Effective_AI_Agents_-_Anthropic.txt"
+  },
+  {
+    "file": "pdfs/Real-world gen AI use cases from the world's leading organizations | Google Cloud Blog.pdf",
+    "totalPages": 80,
+    "textLength": 163635,
+    "wordCount": 23259,
+    "extractedAt": "2025-06-24T20:05:55.889Z",
+    "status": "success",
+    "outputFile": "extracted_content/Real-world_gen_AI_use_cases_from_the_world_s_leading_organizations_Google_Cloud_Blog.txt"
+  },
+  {
+    "file": "pdfs/gemini-for-google-workspace-prompting-guide-101.pdf",
+    "totalPages": 68,
+    "textLength": 111536,
+    "wordCount": 18039,
+    "extractedAt": "2025-06-24T20:05:56.320Z",
+    "status": "success",
+    "outputFile": "extracted_content/gemini-for-google-workspace-prompting-guide-101.txt"
+  },
+  {
+    "file": "pdfs/identifying-and-scaling-ai-use-cases-open-ai.pdf",
+    "totalPages": 34,
+    "textLength": 589,
+    "wordCount": 2,
+    "extractedAt": "2025-06-24T20:05:56.966Z",
+    "status": "success",
+    "outputFile": "extracted_content/identifying-and-scaling-ai-use-cases-open-ai.txt"
+  },
+  {
+    "file": "pdfs/a-practical-guide-to-building-agents-by-open-ai.pdf",
+    "totalPages": 34,
+    "textLength": 843,
+    "wordCount": 2,
+    "extractedAt": "2025-06-24T20:05:57.626Z",
+    "status": "success",
+    "outputFile": "extracted_content/a-practical-guide-to-building-agents-by-open-ai.txt"
+  },
+  {
+    "file": "pdfs/22365_3_Prompt Engineering_v7 (Kaggle:Google).pdf",
+    "totalPages": 68,
+    "textLength": 84594,
+    "wordCount": 13324,
+    "extractedAt": "2025-06-24T20:05:57.816Z",
+    "status": "success",
+    "outputFile": "extracted_content/22365_3_Prompt_Engineering_v7_Kaggle_Google_.txt"
+  },
+  {
+    "file": "pdfs/ai-in-the-enterprise-open-ai.pdf",
+    "totalPages": 25,
+    "textLength": 438,
+    "wordCount": 2,
+    "extractedAt": "2025-06-24T20:05:58.331Z",
+    "status": "success",
+    "outputFile": "extracted_content/ai-in-the-enterprise-open-ai.txt"
+  },
+  {
+    "file": "pdfs/Agents_Companion_v2 (Kaggle:google).pdf",
+    "totalPages": 76,
+    "textLength": 97171,
+    "wordCount": 13632,
+    "extractedAt": "2025-06-24T20:05:58.720Z",
+    "status": "success",
+    "outputFile": "extracted_content/Agents_Companion_v2_Kaggle_google_.txt"
+  }
+]
