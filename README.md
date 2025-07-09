@@ -21,4 +21,15 @@ This repository explores techniques, prompts, and analysis aimed at improving de
 ## Attribution
 
 - Initial prompt templates were distilled from agent and prompt-engineering guides published by leading AI vendors and research teams (Anthropic, OpenAI, Google, Meta, Perplexity, xAI, etc.). All content has been re-structured under the PTCF framework and augmented with additional constraints.
-- The `system_prompt_insights.md` document was generated with assistance from the open-source project [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S). 
+- The `system_prompt_insights.md` document was generated with assistance from the open-source project [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S).
+
+### Source PDF References
+
+- [Real-World Gen AI Use Cases – Google Cloud](pdfs/Real-world%20gen%20AI%20use%20cases%20from%20the%20world%27s%20leading%20organizations%20%7C%20Google%20Cloud%20Blog.pdf)
+- [Identifying & Scaling AI Use Cases – OpenAI](pdfs/identifying-and-scaling-ai-use-cases-open-ai.pdf)
+- [Gemini for Google Workspace Prompting Guide](pdfs/gemini-for-google-workspace-prompting-guide-101.pdf)
+- [Building Effective AI Agents – Anthropic](pdfs/Building%20Effective%20AI%20Agents%20-%20Anthropic.pdf)
+- [AI in the Enterprise – OpenAI](pdfs/ai-in-the-enterprise-open-ai.pdf)
+- [Agents Companion v2 – Google Kaggle](pdfs/Agents_Companion_v2%20%28Kaggle%3Agoogle%29.pdf)
+- [Practical Guide to Building Agents – OpenAI](pdfs/a-practical-guide-to-building-agents-by-open-ai.pdf)
+- [Prompt Engineering v7 – Google Kaggle](pdfs/22365_3_Prompt%20Engineering_v7%20%28Kaggle%3AGoogle%29.pdf) 
