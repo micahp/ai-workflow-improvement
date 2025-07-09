@@ -20,4 +20,5 @@ This repository explores techniques, prompts, and analysis aimed at improving de
 
 ## Attribution
 
-The `system_prompt_insights.md` document was generated with assistance from the open-source project [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S). 
+- Initial prompt templates were distilled from publicly available system-prompt disclosures, technical white-papers, and PDF documentation released by leading AI vendors (Anthropic, OpenAI, Google, Meta, Perplexity, xAI, etc.). All content has been re-structured under the PTCF framework and augmented with additional constraints.
+- The `system_prompt_insights.md` document was generated with assistance from the open-source project [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S). 
