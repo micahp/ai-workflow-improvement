@@ -1,6 +1,6 @@
 # AI Workflow Improvement
 
-This repository explores techniques, prompts, and analysis aimed at improving developer productivity and AI-assisted workflows.
+This repository explores techniques, prompts, and analysis aimed at improving developer productivity and AI-assisted workflows. Well Developed prompts for every part of the software development process. 
 
 ## Prompt Library V3 Index
 
